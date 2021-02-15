@@ -7,8 +7,6 @@
     </p>
 </div>
 
-## Scripts
-
 ### Install dependencies:
 
 ```bash
