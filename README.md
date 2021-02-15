@@ -47,3 +47,7 @@ yarn start
 
 - [Next.js](https://nextjs.org/)
 - [TypeScript](typescriptlang.org)
+
+## Resources
+
+- [vercerl next.js typescript example repo](https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
