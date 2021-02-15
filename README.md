@@ -50,4 +50,4 @@ yarn start
 
 ## Resources
 
-- [vercerl next.js typescript example repo](https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
+- [Vercel Next.js TypeScript example repo](https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
