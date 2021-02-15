@@ -1,25 +1,49 @@
 <div align="center">
-    <a href="https://www.wrecknet.com.au/">
-    <img src="./public/wrecknet-logo.png" alt="" height="100"/>
+    <a href="">
+    <img src="" alt="" height="100"/>
   </a>
     <p>
-      <i>Web app for WreckNet</i>
+      <i>Next.js and Typescript starter</i>
     </p>
 </div>
 
-## 🏁 Getting Started
+## Scripts
 
-First, run the development server:
+### Install dependencies:
+
+```bash
+npm install 
+
+#or
+yarn
+```
+
+### Run the development server:
 
 ```bash
 npm run dev
-# or
+
+#or
 yarn dev
 ```
 
-## 🛠️ Architecture
+### Build for production AND generate static website into "out" folder:
 
-## ✔️ Deployment
+```bash
+npm run build
+
+#or
+yarn build
+```
+
+### Run in production:
+
+```bash
+npm start
+
+#or 
+yarn start
+```
 
 ## 🏗️ Built With
 
