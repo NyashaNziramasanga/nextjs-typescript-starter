@@ -46,3 +46,4 @@ yarn start
 ## 🏗️ Built With
 
 - [Next.js](https://nextjs.org/)
+- [TypeScript](typescriptlang.org)
